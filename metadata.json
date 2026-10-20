@@ -1,0 +1,6 @@
+{
+  "name": "MediaFlow",
+  "description": "Universal online video and music discovery, search, and unified player with YouTube and authorized audio sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
